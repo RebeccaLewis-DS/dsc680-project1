@@ -35,7 +35,6 @@ Packages include pandas, numpy, pycaret, pandas-profiling, datetime
     4. Condition_Classification_Model.ipynb
     5. Temperament_Classification_Model.ipynb
 
-To run the models with your own data, download them from the models folder and load them into your program.
 
 
 
