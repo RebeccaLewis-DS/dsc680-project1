@@ -29,11 +29,11 @@ Packages include pandas, numpy, pycaret, pandas-profiling, datetime
 ### Usage
 1. Download the files in the same folder structure.
 2. Run the scripts in the following order:
-  1. Data_Preparation.ipynb
-  2. Data_Profiling.ipynb
-  3. Feature_Engineering.ipynb
-  4. Condition_Classification_Model.ipynb
-  5. Temperament_Classification_Model.ipynb
+    1. Data_Preparation.ipynb
+    2. Data_Profiling.ipynb
+    3. Feature_Engineering.ipynb
+    4. Condition_Classification_Model.ipynb
+    5. Temperament_Classification_Model.ipynb
 
 To run the models with your own data, download them from the models folder and load them into your program.
 
