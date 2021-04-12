@@ -9,9 +9,12 @@ Root
 - Data Visualizations - LewisRebecca_DataVisualizations.twb
 - Final Paper - LewisRebecca_Project1_Paper_FINAL.pdf
 - Final Slides - LewisRebecca_Project1_Presentation_.pptx
+- For a recorded presentation in mp4 format, please contact me at revlewis79@gmail.com.
+
 Data
 - BR_Animal_Control_Calls.csv
 - RAW_Animal_Control_Incidents.csv
+
 Scripts
 - Condition_Classification_Model.ipynb
 - Data_Preparation.ipynb
