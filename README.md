@@ -1,9 +1,6 @@
 # Using Animal Control Incident Data to Improve Animal Welfare by Community
 ## DSC 680 - Applied Data Science - Project 1
 
-### Objective
-Identify the potential use of predictive analytics, formulate the problem, identify the right sources of data, analyze data, and prescribe actions to improve not only the process of decision making but also the outcome of decisions.
-
 ### Abstract
 According to research estimates from the American Society for the Prevention of Cruelty to Animals (ASPCA), over 6.5 million animals enter shelters each year [7]. Of those, approximately 1.5 million animals are euthanized [7]. Animals of all species and breeds enter shelters in multiple ways. They can be surrendered by their former owners, rescued by individuals or authorities as strays, or confiscated from a cruelty case. [9] Most municipalities have an animal control or humane law entity that is responsible for responding to animal complaints and emergencies.  Sometimes these agencies are publicly funded, and sometimes they are part of a private nonprofit animal welfare organization. [10] Animal control officers sometimes have a bad reputation, but often their desire is to maintain the best quality of life for animals in the community. Common problems that they work towards improving include pet overpopulation, cruelty and dogfighting, and feral cat community control.  The objective of this project was to analyze animal control incident data collected by an animal control agency and use it to provide vital information to address animal welfare problems.  
 
